@@ -59,11 +59,11 @@ Parameter Table: pars.txt
 
 output file: image_re_Dewolf.txt
 
-####Program compilation and execution
-Compile command
+####Program compilation and execution#####
+###Compile command###
        gcc -O3 Dewolf.c -o Dewolf.o -lm -g
 
-Run command
+###Run command###
        ./Dewolf.o
 
 
